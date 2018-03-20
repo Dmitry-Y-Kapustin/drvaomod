@@ -1,0 +1,23 @@
+{
+	"name": "DrVao Mod",
+	"date": "2018.03.20",
+	"version": "1.0.0",
+	"description": "DrVao Mod - Портал вместо приложений от Инфомира",
+	"author": {
+		"name": "BetaMaster"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/betamaster2/ottplayer/Fork-Player-for-Stalker-Middleware.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "DrVao Mod",
+		"legacy": true,
+		"description": "DrVao Mod - Портал вместо приложений от Инфомира",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
